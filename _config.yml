@@ -9,7 +9,7 @@ name: Mike Gredlics
 description: MS graduate in Predictive Analytics from DePaul University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![Main Avatar](/images/Brew.jpg)
+avatar: ![Brew.jpg]({{site.baseurl}}/images/Brew.jpg)
 
 
 #
