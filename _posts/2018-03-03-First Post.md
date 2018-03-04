@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Welcome to my first post on Github. I look forward to sharing some of my interests including Baseball, Game of Thrones, and Beer!
 
